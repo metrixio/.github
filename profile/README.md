@@ -12,7 +12,7 @@ Welcome to the ultimate toolkit for tracking and analyzing metrics. This organiz
 
 - **GitHub Insights:** This repository provides metrics on the popularity and usage of GitHub repositories. This can help developers understand how their code is being used and identify areas for improvement.
 
- **Packagist Stats:** This repository provides metrics on the popularity and usage of packages published on Packagist. This can help developers understand the impact of their packages and identify opportunities for growth.
+- **Packagist Stats:** This repository provides metrics on the popularity and usage of packages published on Packagist. This can help developers understand the impact of their packages and identify opportunities for growth.
 
 Overall, these tools can help developers improve their code, optimize their workflow, and better understand the needs of their users.
 
