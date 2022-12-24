@@ -2,7 +2,7 @@
 
 Welcome to the ultimate toolkit for tracking and analyzing metrics. This organization includes powerful resources for gathering data and insights from Twitter, Docker, GitHub, and Packagist. Whether you're a developer, marketer, or data analyst, these tools will help you stay on top of key performance indicators and make informed decisions. 
 
-![cover](https://user-images.githubusercontent.com/773481/209413844-3b498d27-4e96-4c5a-a4fa-3b47d06c1332.jpg)
+![cover](https://user-images.githubusercontent.com/773481/209429222-56bfc414-25a9-4e55-b86b-548e9dc05762.jpg)
 
 ### Here are some benefits that developers can expect to gain from using this tools:
 
