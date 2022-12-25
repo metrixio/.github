@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+# The project is still in development and there can be some problems. If you have some issuses let me know or be free to fix them :)
+
 Welcome to the ultimate toolkit for tracking and analyzing metrics. 
 
 This project aims to gather and analyze data from various social media and software development platforms, including Twitter, GitHub, Docker, and Packagist. The goal is to provide insights and analytics on user behavior and activity on these platforms, as well as to track the performance and popularity of various projects and users.
