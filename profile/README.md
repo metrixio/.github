@@ -14,6 +14,14 @@ Our project can help with that! It gathers data from these platforms to give you
 
 - [Packagist Stats](https://github.com/metrixio/packagist) provides metrics on the popularity and usage of packages published on Packagist. This can help developers understand the impact of their packages and identify opportunities for growth.
 
+-----
+
+We welcome contributions from all levels of experience, and we encourage you to take the initiative and create your own collectors or suggest ideas for collectors that you think would be valuable.
+
+<br />
+
+
+
 > **Note**:
 > This project is still a work in progress, so it's possible that you may encounter some issues. If you do, please don't hesitate to let us know or feel free to contribute by fixing them yourself! 
 > We're always looking for ways to improve and your input is invaluable to us.
