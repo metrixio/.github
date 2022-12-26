@@ -1,25 +1,19 @@
-## Hi there 👋
-
-# The project is still in development and there can be some problems. If you have some issuses let me know or be free to fix them :)
-
-Welcome to the ultimate toolkit for tracking and analyzing metrics. 
-
-This project aims to gather and analyze data from various social media and software development platforms, including Twitter, GitHub, Docker, and Packagist. The goal is to provide insights and analytics on user behavior and activity on these platforms, as well as to track the performance and popularity of various projects and users.
-
-Whether you're a developer, marketer, or data analyst, these tools will help you stay on top of key performance indicators and make informed decisions. 
-
 ![cover](https://user-images.githubusercontent.com/773481/209429281-e997d3a8-ac07-47cd-8f08-32ef7d247ef6.jpg)
+
+### Are you looking for a way to analyze your metrics from platforms like Twitter, Youtube, GitHub, Docker or Packagist?
+
+Our project can help with that! It gathers data from these platforms to give you a better understanding of user behavior and activity. Whether you're a developer, marketer, or data analyst, these tools can be really helpful in staying on top of key performance indicators and making smart decisions.
 
 ### Here are some benefits that developers can expect to gain from using this tools:
 
-- [Twitter Analytics](https://github.com/metrixio/twitter) This repository allows developers to track the performance of their tweets and understand how they are being received by users. This can help developers identify what content resonates with their audience and improve their social media strategy.
+- [Twitter Analytics](https://github.com/metrixio/twitter) tool tracks various metrics of your tweets, such as followers, retweets, likes, and quotes, to help you understand how well they're performing and improve your social media strategy.
 
-- [Docker Stats](https://github.com/metrixio/docker) This repository provides metrics on the downloads and repository stars.
+- [Docker Stats](https://github.com/metrixio/docker) tool tracks the number of downloads and stars from https://hub.docker.com/.
 
-- [GitHub Insight](https://github.com/metrixio/github-public) This repository provides metrics on the popularity and usage of GitHub repositories. This can help developers understand how their code is being used and identify areas for improvement.
+- [GitHub Insight](https://github.com/metrixio/github-public) offers metrics on the popularity and usage of GitHub repositories, which can help developers understand how their code is being used and identify areas for improvement.
 
-- [Packagist Stats](https://github.com/metrixio/packagist) This repository provides metrics on the popularity and usage of packages published on Packagist. This can help developers understand the impact of their packages and identify opportunities for growth.
+- [Packagist Stats](https://github.com/metrixio/packagist) provides metrics on the popularity and usage of packages published on Packagist. This can help developers understand the impact of their packages and identify opportunities for growth.
 
-Overall, these tools can help developers improve their code, optimize their workflow, and better understand the needs of their users.
-
-### So why wait? Start exploring and discover the benefits of these essential tools!
+> **Note**:
+> This project is still a work in progress, so it's possible that you may encounter some issues. If you do, please don't hesitate to let us know or feel free to contribute by fixing them yourself! 
+> We're always looking for ways to improve and your input is invaluable to us.
